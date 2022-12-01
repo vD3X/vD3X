@@ -19,5 +19,5 @@
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968282.png" alt="java" width="40" height="40"/> </a>
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/1051/1051277.png" alt="html5" width="40" height="40"/> </a>
 <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968332.png" alt="php" width="40" height="40"/> </a>
-<a href="https://www.photoshop.com" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968520.png" alt="photoshop" width="40" height="40"/> </a>
+<a href="https://www.photoshop.com" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968520.png" alt="photoshop" width="40" height="40"/> </a><p>
 &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vhaqi&show_icons=true&theme=dark&locale=en" alt="vhaqi" /></p>
