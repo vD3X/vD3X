@@ -1,8 +1,6 @@
 <h1 align="center">WITAJ NA MOIM PROFILU</h1>
+<h3 align="center">A passdionate frontend developer from India</h3>
 
-<!--
-**vHaQi/vHaQi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
 - 👋 Hej, nazywam się Jakub "D3X" Bartosik
 - 🔭 Pracuje aktualnie nad 
 - 👀 Interesuję się programowaniem. (Języki: Java, Html, PHP)
