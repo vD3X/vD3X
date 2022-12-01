@@ -9,7 +9,7 @@
 <h3 align="center">Social Media</h3>
 <p align="center">
 <a href="https://www.behance.net/jakubbartosik2" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/3536/3536806.png" alt="d3x design" height="40" width="40" /></a>
-<a href="https://www.youtube.com/channel/UCRP5P5N4OGubOezIrV571ZA" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" alt="dd3x" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCRP5P5N4OGubOezIrV571ZA" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" alt="dd3x" height="40" width="40" /></a>
 </p>
 
 <h3 align="center">Języki Oprogramowania & Narzędzia do prac</h3>
