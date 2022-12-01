@@ -3,7 +3,7 @@
 - 👋 Hej, nazywam się Jakub "D3X" Bartosik
 - 🔭 Pracuje aktualnie nad [AutumnClient](https://autumnclient.pl)
 - 👀 Interesuję się programowaniem jak i projektowaniem grafik komputerowych. (Języki: Java, Html, PHP)
-- 📫 Skontaktujesz się ze mną przez:
+- 📫 Masz pytanie? skontaktuj się ze mną:
 - **Discord: D3X#9513**
 
 <h3 align="center">Social Media</h3>
