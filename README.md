@@ -1,4 +1,4 @@
-<h1 align="center">👋, O MNIE</h1>
+<h1 align="center">WITAJ NA MOIM PROFILU</h1>
 
 <!--
 **vHaQi/vHaQi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
