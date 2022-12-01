@@ -1,5 +1,7 @@
 <h1 align="center">WITAJ NA MOIM PROFILU</h1>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=vhaqi&label=Profile%20views&color=0e75b6&style=flat" alt="vhaqi" /> </p>
+
 - 👋 Hej, nazywam się Jakub "D3X" Bartosik
 - 🔭 Pracuje aktualnie nad [AutumnClient](https://autumnclient.pl)
 - 👀 Interesuję się programowaniem jak i projektowaniem grafik komputerowych. (Języki: Java, Html, PHP)
