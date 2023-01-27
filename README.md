@@ -4,6 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vhaqi&label=Profile%20views&color=0e75b6&style=flat" alt="vhaqi" /> </p>
 
+<h1 align="center">ABOUT ME</h1>
 - 👋 Hej, nazywam się Jakub "D3X" Bartosik
 - 👀 Interesuję się programowaniem jak i projektowaniem grafik komputerowych. (Języki: Java, Html, PHP)
 - 📫 Masz pytanie? skontaktuj się ze mną:
