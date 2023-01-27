@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=23&pause=1000&color=0A4CB1&center=true&vCenter=true&width=1000&lines=Sourcepawn+Developer;I'm+learning+new+things)](https://git.io/typing-svg)
 
-##Programming languages
+## Programming languages
 
 <p align="left"> 
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968282.png" alt="java" width="40" height="40"/> </a>
