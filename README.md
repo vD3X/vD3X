@@ -1,6 +1,6 @@
 <h1 align="center">WELCOME TO MY PROFILE</h1>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&pause=1000&color=DA0000&center=true&vCenter=true&width=600&lines=Sourcepawn+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&pause=1000&color=DA0000&center=true&vCenter=true&width=800&lines=Sourcepawn+Developer)](https://git.io/typing-svg)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vhaqi&label=Profile%20views&color=0e75b6&style=flat" alt="vhaqi" /> </p>
 
