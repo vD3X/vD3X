@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=23&pause=1000&color=0A4CB1&center=true&vCenter=true&width=1000&lines=Sourcepawn+Developer)](https://git.io/typing-svg)
 
-
+<p align="LEFT">ABOUT ME</p>
 - 👋 Hej, nazywam się Jakub "D3X" Bartosik
 - 👀 Interesuję się programowaniem jak i projektowaniem grafik komputerowych. (Języki: Java, Html, PHP)
 - 📫 Masz pytanie? skontaktuj się ze mną:
