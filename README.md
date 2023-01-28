@@ -1,6 +1,6 @@
 <h1 align="center">WELCOME TO MY PROFILE</h1>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=23&pause=1000&color=0A4CB1&center=true&vCenter=true&width=1000&lines=Sourcepawn+Developer;I'm+learning+new+things)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=23&pause=1000&color=0A4CB1&center=true&vCenter=true&width=1000&lines=Sourcepawn+Developer;I'm+learning+new+things)](https://github.com/vHaQi)
 
 ## Programming languages
 
